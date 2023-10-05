@@ -1,0 +1,45 @@
+/*-------------------------- counter_section --------------------*/
+.counter_section{
+  padding: 20px 0;
+  text-align: center;
+  
+}
+.counter_section .counter{
+  width: 200px ;
+  background-color: #eff6f1;
+  padding: 20px 50px;
+  border-radius: 10px;
+}
+.counter_section h3{
+  color: #274c5b;
+}
+
+
+/*----------------------- button_section --------------------------------*/
+.button_section{
+  padding: 20px 0;
+}
+.button_section .btn1{
+  padding: 7px 25px;
+  background-color: #274c5b;
+  border: 2px solid #274c5b;
+  color: #fff;
+  border-radius: 10px;
+  font-size: 20px;
+  transition: all .4s;
+}
+.button_section .btn1:hover{
+  color: #274c5b;
+  background-color: #fff;
+}
+
+/*------------------------- checkout_section -------------------------*/
+.checkout_section{
+  padding: 50px 0;
+  background-color: #eff6f1;
+}
+.checkout_section h2{
+  color: #274c5b;
+  font-size: 40px;
+  font-weight: bold;
+}
